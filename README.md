@@ -51,7 +51,7 @@ Bu **Discord SelfBot**, sunucularınızı ve medya yönetimini kolaylaştıran b
 
 ## ⚡ Notlar
 - Selfbot komutları **komutu yazan mesajı siler**.  
-- Node.js ≥16 ile çalışır.  
+- Node.js ≥16 ve üzeri sürümler ile çalışır.  
 - Bu proje **discord.js-selfbot-v13** modülü ile yazılmıştır.  
 - Media forwarding artık **dosyayı indirip gönderiyor**, link paylaşmıyor.  
 - Selfbot kullanımı **Discord ToS ihlali** oluşturabilir, dikkatli kullanın. 
@@ -62,8 +62,8 @@ Bu **Discord SelfBot**, sunucularınızı ve medya yönetimini kolaylaştıran b
 ## 📂 Kurulum
 1. Repository’i klonlayın:  
 
-   git clone https://github.com/Burak-16/nsfw-selfbot-v3.git
-   cd nsfw-selfbot-v3 
+  git clone https://github.com/Burak-16/nsfw-selfbot-v3.git
+  cd nsfw-selfbot-v3
 
 2. Modülleri indirin:
 
