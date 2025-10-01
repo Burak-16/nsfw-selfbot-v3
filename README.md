@@ -1,6 +1,6 @@
 # 🤖 SelfBot for Discord
 
-Bu **Discord SelfBot**, sunucularınızı, sahiplerinizi ve medya yönetimini kolaylaştıran kullanışlı komutlarla dolu.
+Bu **Discord SelfBot**, sunucularınızı, sahiplerinizi ve medya yönetimini kolaylaştıran bir proje
 
 ---
 
