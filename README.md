@@ -63,7 +63,7 @@ Bu **Discord SelfBot**, sunucularınızı ve medya yönetimini kolaylaştıran b
 1. Repository’i klonlayın:  
 
    git clone https://github.com/Burak-16/nsfw-selfbot-v3.git
-   cd selfbot 
+   cd nsfw-selfbot-v3 
 
 2. Modülleri indirin:
 
